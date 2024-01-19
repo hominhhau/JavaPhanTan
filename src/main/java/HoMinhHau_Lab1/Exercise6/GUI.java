@@ -1,4 +1,4 @@
-package HoMinhHau_Lab1.Exercise5;
+package HoMinhHau_Lab1.Exercise6;
 
 import javax.swing.*;
 import java.awt.*;

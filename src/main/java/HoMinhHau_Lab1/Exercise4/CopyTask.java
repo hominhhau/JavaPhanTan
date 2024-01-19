@@ -35,10 +35,8 @@ class CopyTask extends SwingWorker<Long, Long> {
                 progressBar.setValue((int) (currentLength * 100 / total));
                 Thread.sleep(1);
             }
-
             // in.close();
             // out.close();
-
             return currentLength;
         }
 
